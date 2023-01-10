@@ -1,0 +1,25 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.adjustPosition {
+    text-align: center;
+}
+
+#projectTitle {
+    background-color: rgb(14, 148, 104);
+}
+
+#linkList {
+    background-color: bisque;
+}
+
+.link {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.img {
+    width: 200px;
+    height: auto;
+}
